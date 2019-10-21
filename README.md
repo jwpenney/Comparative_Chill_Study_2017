@@ -11,3 +11,6 @@ For the study discussed in this article, I used data collected via an online sur
 
 ## Data Repository
 For the Complete Survey and Results see: 
+
+Comparative Chill Survey Stata Data Set (Complete).dta	(Complete STATA data set)
+Comparative-Chilling-Effects-Survey (Complete).pdf (Complete Survey and Results)
